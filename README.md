@@ -2,7 +2,7 @@
 
 Este projeto é uma calculadora simples, desenvolvida em Python, que realiza operações matemáticas básicas diretamente pelo terminal (CLI).
 
-Foi criado como um projeto colaborativo entre Maria Eduarda e [Nome do namorado], com o propósito de:
+Foi criado como um projeto colaborativo com o propósito de:
 
 Praticar lógica de programação.
 
